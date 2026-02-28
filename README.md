@@ -1,6 +1,6 @@
 # Healthcare Wait Time Optimizer
 
-![Project Banner](https://via.placeholder.com/800x200?text=Healthcare+Wait+Time+Optimizer)
+![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Healthcare%20Wait%20Time%20Optimizer&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 ## 📌 Project Overview & Objective
 This project analyzes **ER Patient Journey Data** to uncover actionable business insights. The main objective was to understand the underlying patterns of Patient Wait Times and provide strategic recommendations to Hospital Administrators.
@@ -21,8 +21,7 @@ The analysis leverages **Open Data portals (Medicare/Medicaid Hospital Wait Time
 - **Insight 1:** Shifting 2 nurses from morning to evening shifts on weekends reduces average patient wait times by 22%.
 
 ## 📈 Visualizations
-![Visualization 1](https://via.placeholder.com/400x250?text=Wait+Time+Dashboard)
-![Visualization 2](https://via.placeholder.com/400x250?text=Staff+Allocation+Chart)
+![Visualization 1](https://github-readme-stats.vercel.app/api/pin/?username=hazemelerefey&repo=analytics-healthcare-waits&theme=radical)
 
 ## 🚀 How to Run the Notebook
 1. Clone this repository:
